@@ -242,5 +242,3 @@ class Fun(commands.Cog):
                     await message.add_reaction(reaction)
         if not channel and ctx.channel.permissions_for(ctx.me).manage_messages:
             await ctx.message.delete()
-        else:
-            await ctx.tick()
