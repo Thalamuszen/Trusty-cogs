@@ -218,7 +218,7 @@ class Fun(commands.Cog):
                 if self.has_dupe(react_me):
                     # this failed too, so there's really nothing we can do anymore.
                     return await ctx.send(
-                        "Failed to fix all duplicates. Cannot react with this string."
+                        "Nah mate, this ain't gonna work. Can't find enough Emoji's. Try summin else/shorter."
                     )
 
             for char in react_me:
