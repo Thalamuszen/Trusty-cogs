@@ -67,7 +67,7 @@ emoji_dict = {
     # these arrays are in order of "most desirable". Put emojis that most convincingly correspond to their letter near the front of each array.
     "a": ["🇦", "🅰", "🍙", "🔼", "4⃣"],
     "b": ["🇧", "🅱", "8⃣"],
-    "c": ["🇨", "©", "🗜"],
+    "c": ["🇨", "🌘", "©", "🗜"],
     "d": ["🇩", "↩"],
     "e": ["🇪", "3⃣", "📧", "💶"],
     "f": ["🇫", "🎏"],
